@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tecsup.app.micro.product.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.253 s -- in com.tecsup.app.micro.product.ProductServiceApplicationTests
