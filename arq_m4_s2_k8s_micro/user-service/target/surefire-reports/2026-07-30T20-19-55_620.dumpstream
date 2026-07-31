@@ -1,5 +1,0 @@
-# Created at 2026-07-30T20:19:55.783
-Boot Manifest-JAR contains absolute paths in classpath 'D:\Proyectos\arquitectura\kubernate_seguridad_rj_23_07_2026\arq_m4_s2_k8s_micro\user-service\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
